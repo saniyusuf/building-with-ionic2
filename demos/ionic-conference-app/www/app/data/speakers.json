@@ -1,114 +1,58 @@
 [
   {
     "id": "1",
-    "name": "Adam Badley",
-    "profile_pic": "https://avatars2.githubusercontent.com/u/452425?v=3",
-    "twitter": "http://twitter.com/ionicframework",
-    "about": "Co-creator of Ionic Framework and Angular Material Design team member. Regularly writes and speaks about hybrid development with Ionic and Angular. Proud dad, husband, veteran, and dog's best friend. Based in beautiful Madison, WI.",
-    "location": "Madison, WI"
+    "name": "Sani Yusuf",
+    "profile_pic": "http://atthefrontend.dk/thumbs/320x320c/2016-04/sani-closer.jpg",
+    "twitter": "http://twitter.com/saniyusuf",
+    "about": "Sani runs a startup called HAIBRID that uses cross-platform mobile development techniques to create innovative ​mobile solutions. Sani also co-manages the Ionic UK community in UK and has had stints with companies like Microsoft, Huddlebuy & Anritsu in the past.",
+    "location": "London, UK"
   },
   {
     "id": "2",
-    "name": "Max Lynx",
-    "profile_pic": "https://avatars3.githubusercontent.com/u/11214?v=3",
-    "twitter": "http://twitter.com/ionicframework",
-    "about": "Co-creator of Ionic Framework and Angular Material Design team member. Regularly writes and speaks about hybrid development with Ionic and Angular. Proud dad, husband, veteran, and dog's best friend. Based in beautiful Madison, WI.",
-    "location": "Madison, WI"
+    "name": "Tess Ferrandez",
+    "profile_pic": "http://atthefrontend.dk/thumbs/320x320c/2016-03/tess.jpg",
+    "twitter": "http://twitter.com/TessFerrandez",
+    "about": "Tess is a developer working at Microsoft. She is equally happy debugging nasty back-end issues as she is developing web front-ends, apps or designing super nice User Interfaces. She has been blogging at http://blogs.msdn.microsoft.com/Tess for the better part of her career, and spoken at lots and lots of conferences around the world. You can also find her on twitter at @TessFerrandez",
+    "location": "Sweeden"
   },
   {
     "id": "3",
-    "name": "Brandy Carnegie",
-    "profile_pic": "https://avatars0.githubusercontent.com/u/6577830?v=3",
+    "name": "Mads Hartmann Jensen",
+    "profile_pic": "http://atthefrontend.dk/thumbs/320x320c/2016-03/hartmann.jpg",
     "twitter": "http://twitter.com/ionicframework",
-    "about": "Co-creator of Ionic Framework and Angular Material Design team member. Regularly writes and speaks about hybrid development with Ionic and Angular. Proud dad, husband, veteran, and dog's best friend. Based in beautiful Madison, WI.",
-    "location": "Madison, WI"
+    "about": "I’m a full-stack software engineer from Copenhagen, Denmark with a PhD in Computer Science (Algorithms & Data Structures research) from the Technical University of Denmark.You can get me excited about almost all areas of computer science, in particular algorithms, architecture, distributed systems and security. With years of experience in both dev and ops roles, I am a big fan of automation and full-stack responsibility. Currently at issuu, I'm currently mostly writing python and javascript for large-scale consumption.",
+    "location": "Copenhagen, Denmark"
   },
   {
     "id": "4",
-    "name": "Josh Babari",
-    "profile_pic": "https://avatars3.githubusercontent.com/u/1414692?v=3",
-    "twitter": "http://twitter.com/ionicframework",
-    "about": "Co-creator of Ionic Framework and Angular Material Design team member. Regularly writes and speaks about hybrid development with Ionic and Angular. Proud dad, husband, veteran, and dog's best friend. Based in beautiful Madison, WI.",
-    "location": "Madison, WI"
+    "name": "Todd Motto",
+    "profile_pic": "http://atthefrontend.dk/thumbs/320x320c/2016-04/toddmotto.jpg",
+    "twitter": "http://twitter.com/toddmotto",
+    "about": "Exploring the depths of creating Angular 2 Components with @Component and ES6 classes. This talk dives into concepts we all know and loved in Angular 1.x, from passing data into Components and exposing custom events, through to multi-point transclusion, and mastering @Host, @HostChild/HostChildren, @ViewChild/ViewChildren to create complex Components and Directives.",
+    "location": "England, UK"
   },
   {
     "id": "5",
-    "name": "Ben Sparrow",
-    "profile_pic": "https://avatars1.githubusercontent.com/u/519526?v=3",
+    "name": "Rachel Andrew",
+    "profile_pic": "http://atthefrontend.dk/thumbs/320x320c/2016-04/rachelandrew-highres.jpg",
     "twitter": "http://twitter.com/ionicframework",
-    "about": "Co-creator of Ionic Framework and Angular Material Design team member. Regularly writes and speaks about hybrid development with Ionic and Angular. Proud dad, husband, veteran, and dog's best friend. Based in beautiful Madison, WI.",
-    "location": "Madison, WI"
+    "about": "Rachel Andrew lives in Bristol, England. She is one half of web development company edgeofmyseat.com, the company behind Perch CMS (grbaperch.com). Her day to day work can include anything from product development to devops to CSS, and she writes about all of these subjects on her blog at rachelandrew.co.uk. Rachel has been working on the web since 1996 and writing about the web for almost as long. Her most recent books are Get Ready For CSS Grid Layout and HTML5 for Web Designers 2nd edition, both for A Book Apart. She is a regular columnist for A List Apart as well as other publications online and print. When not writing, Rachel often acts as a technical editor for other authors.",
+    "location": "Bristol, UK"
   },
   {
     "id": "6",
-    "name": "Mike Hurtington",
-    "profile_pic": "https://avatars0.githubusercontent.com/u/2835826?v=3",
+    "name": "Maciej Pękala",
+    "profile_pic": "http://atthefrontend.dk/thumbs/320x320c/2016-03/maciejpekala.png",
     "twitter": "http://twitter.com/ionicframework",
-    "about": "Co-creator of Ionic Framework and Angular Material Design team member. Regularly writes and speaks about hybrid development with Ionic and Angular. Proud dad, husband, veteran, and dog's best friend. Based in beautiful Madison, WI.",
-    "location": "Madison, WI"
+    "about": "A self-taught software developer with background in Electrical Engineering, passionate about modern front-end and architecture of complex systems.",
+    "location": "Denmark"
   },
   {
     "id": "7",
-    "name": "Perry Governor",
-    "profile_pic": "https://avatars1.githubusercontent.com/u/571056?v=3",
+    "name": "Kenneth Skovhus",
+    "profile_pic": "http://atthefrontend.dk/thumbs/320x320c/2016-03/skovhus.jpg",
     "twitter": "http://twitter.com/ionicframework",
-    "about": "Co-creator of Ionic Framework and Angular Material Design team member. Regularly writes and speaks about hybrid development with Ionic and Angular. Proud dad, husband, veteran, and dog's best friend. Based in beautiful Madison, WI.",
-    "location": "Madison, WI"
-  },
-  {
-    "id": "8",
-    "name": "Eric Bobbington",
-    "profile_pic": "https://avatars3.githubusercontent.com/u/19638?v=3",
-    "twitter": "http://twitter.com/ionicframework",
-    "about": "Co-creator of Ionic Framework and Angular Material Design team member. Regularly writes and speaks about hybrid development with Ionic and Angular. Proud dad, husband, veteran, and dog's best friend. Based in beautiful Madison, WI.",
-    "location": "Madison, WI"
-  },
-  {
-    "id": "9",
-    "name": "Tim Lanchester",
-    "profile_pic": "https://avatars2.githubusercontent.com/u/804331?v=3",
-    "twitter": "http://twitter.com/ionicframework",
-    "about": "Co-creator of Ionic Framework and Angular Material Design team member. Regularly writes and speaks about hybrid development with Ionic and Angular. Proud dad, husband, veteran, and dog's best friend. Based in beautiful Madison, WI.",
-    "location": "Madison, WI"
-  },
-  {
-    "id": "10",
-    "name": "Brody Kiddington",
-    "profile_pic": "https://avatars0.githubusercontent.com/u/5280265?v=3",
-    "twitter": "http://twitter.com/ionicframework",
-    "about": "Co-creator of Ionic Framework and Angular Material Design team member. Regularly writes and speaks about hybrid development with Ionic and Angular. Proud dad, husband, veteran, and dog's best friend. Based in beautiful Madison, WI.",
-    "location": "Madison, WI"
-  },
-  {
-    "id": "11",
-    "name": "Rudy Belfonte",
-    "profile_pic": "https://avatars0.githubusercontent.com/u/1584992?v=3",
-    "twitter": "http://twitter.com/ionicframework",
-    "about": "Co-creator of Ionic Framework and Angular Material Design team member. Regularly writes and speaks about hybrid development with Ionic and Angular. Proud dad, husband, veteran, and dog's best friend. Based in beautiful Madison, WI.",
-    "location": "Madison, WI"
-  },
-  {
-    "id": "12",
-    "name": "Dan Dalman",
-    "profile_pic": "https://pbs.twimg.com/profile_images/627907755743952896/TEEur1pK.jpg",
-    "twitter": "http://twitter.com/ionicframework",
-    "about": "Co-creator of Ionic Framework and Angular Material Design team member. Regularly writes and speaks about hybrid development with Ionic and Angular. Proud dad, husband, veteran, and dog's best friend. Based in beautiful Madison, WI.",
-    "location": "Madison, WI"
-  },
-  {
-    "id": "13",
-    "name": "Katie Kinder",
-    "profile_pic": "https://avatars2.githubusercontent.com/u/8117985?v=3",
-    "twitter": "http://twitter.com/ionicframework",
-    "about": "Co-creator of Ionic Framework and Angular Material Design team member. Regularly writes and speaks about hybrid development with Ionic and Angular. Proud dad, husband, veteran, and dog's best friend. Based in beautiful Madison, WI.",
-    "location": "Madison, WI"
-  },
-  {
-    "id": "14",
-    "name": "Drew Rough",
-    "profile_pic": "https://avatars2.githubusercontent.com/u/2018508?v=3",
-    "twitter": "http://twitter.com/ionicframework",
-    "about": "Co-creator of Ionic Framework and Angular Material Design team member. Regularly writes and speaks about hybrid development with Ionic and Angular. Proud dad, husband, veteran, and dog's best friend. Based in beautiful Madison, WI.",
-    "location": "Madison, WI"
+    "about": "Full stack software engineer at issuu.com with a degree in computer science from the Technical University of Denmark. A typical day involves building stuff using JavaScript, React.js, node.js, Python, MySQL, AMQP, AWS, S3, Docker..",
+    "location": "Denmark"
   }
 ]

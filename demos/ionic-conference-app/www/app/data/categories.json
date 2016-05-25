@@ -10,43 +10,23 @@
     "showFilter": true
   },
   {
-    "name": "communication",
-    "displayName": "Communication",
-    "showFilter": true
-  },
-  {
     "name": "tooling",
     "displayName": "Tooling",
     "showFilter": true
   },
   {
-    "name": "services",
-    "displayName": "Services",
+    "name": "css",
+    "displayName": "CSS",
     "showFilter": true
   },
   {
-    "name": "design",
-    "displayName": "Design",
+    "name": "frameworks",
+    "displayName": "Frameworks",
     "showFilter": true
   },
   {
-    "name": "workshop",
-    "displayName": "Workshop",
-    "showFilter": true
-  },
-  {
-    "name": "food",
-    "displayName": "Food",
-    "showFilter": true
-  },
-  {
-    "name": "documentation",
-    "displayName": "Documentation",
-    "showFilter": true
-  },
-  {
-    "name": "navigation",
-    "displayName": "Navigation",
+    "name": "ux",
+    "displayName": "UX",
     "showFilter": true
   }
 ]

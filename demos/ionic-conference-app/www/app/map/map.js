@@ -25,18 +25,15 @@ export class MapPage {
   }
 
   onInit() {
-    var ionicHqLatLng = {lat: 43.07421, lng: -89.38119};
-    var afterPartyLatLng = {lat: 43.07336, lng: -89.38335};
-    var conferenceCenterLatLng = {lat: 43.07276, lng: -89.38076};
+    var confrenceLocation = {lat: 55.6700698, lng: 12.5647572};
 
     this.map = new google.maps.Map(document.getElementById('map'), {
-      center: ionicHqLatLng,
+      center: confrenceLocation,
       zoom: 18
     });
 
-    this.addMarkerAndInfo(ionicHqLatLng, 'Ionic HQ');
-    this.addMarkerAndInfo(conferenceCenterLatLng, 'Conference Center');
-    this.addMarkerAndInfo(afterPartyLatLng, 'Afterparty - Brocach Irish Pub');
+    this.addMarkerAndInfo(confrenceLocation, 'DGI Byen');
+
 
   }
 }
