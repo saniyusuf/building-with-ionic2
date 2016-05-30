@@ -1,11 +1,19 @@
-# Building cross-platform apps with Ionic 2
+# IONIC: THE EVOLUTION OF A HYBRID FRAMEWORK
 
-The Ionic and Angular teams have been working in parallel to extend Ionic’s performance in even more exciting ways than previous versions. We’ll review the new features of Ionic 2 and walk through the process of building a practical and highly performant app, using a single codebase for multiple platforms.
+Ionic is currently in its 3rd year of evolution and we are at a criss-cross point where 2 versions of the framework, Ionic V1 & Ionic V2, exist independently. This talk will aim to analytically showcase features of both versions, highlight where they stand in the evolution of the Ionic framework over time and also talk about when best to use each in the current climate. There will also be a brief highlight about the Ionic IO platform and all its new features like the Ionic Auth, Ionic Deploy & Ionic Push.
 
-- Video: https://www.youtube.com/watch?v=bAlydPwFONY
-- Slides: http://adamdbradley.github.io/building-with-ionic2/
+- Video: https://vimeo.com/168521723
+- Slides: http://saniyusuf.github.io/ionic-the-evolution-of-a-framework/#/
 - V2 Docs: http://ionicframework.com/docs/v2/
 
 #### Made with &#9829;
+- [@saniyusuf](https://twitter.com/saniyusuf)
+- Linkedin : http://linkedin.com/in/saniyusuf
+- Medium : http://medium.com/@saniyusuf
+- Slides : http://slides.com/saniyusuf
+- Website : http://saniyusuf.com
+- - -
+- - -
+- Special Thanks To Adam
 - [@adamdbradley](https://twitter.com/adamdbradley)
 - [@ionicframework](https://twitter.com/ionicframework) 
